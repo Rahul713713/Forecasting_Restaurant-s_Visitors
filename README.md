@@ -16,13 +16,10 @@ We have to forecast the daily customers for four restuarants using the their pre
                  
 # Observations 
 
-1. ETS Decomposition
 ![loan_status vs term](https://github.com/Rahul713713/Forecasting_Restuarant-s_Visitors/blob/master/ETS_decomposition.png "ETS Decomposition")
 
-2. Forecasting using SARIMAX
 ![loan_status vs term](https://github.com/Rahul713713/Forecasting_Restuarant-s_Visitors/blob/master/Forecast.png "Forecasting using SARIMAX")
 
-3. Tableau Forecasting
 ![loan_status vs term](https://github.com/Rahul713713/Forecasting_Restuarant-s_Visitors/blob/master/Tableau_Forecasting.png "Tableau Forecasting")
 
 
