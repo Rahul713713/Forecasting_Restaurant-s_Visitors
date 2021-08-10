@@ -1,4 +1,5 @@
 # Forecasting Restuarant's Visitors : Project Overview
+![Time Series Analysis](https://github.com/Rahul713713/Forecasting_Restuarant-s_Visitors/blob/master/Restuarant.png "ETS Decomposition")
 
 # Problem Statement
 
